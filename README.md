@@ -1,4 +1,4 @@
-# simple-websocket-programming-frontend
+# Simple-websocket-programming-frontend
 
 This repository contains the frontend code for a WebSocket program implemented in React.
 
